@@ -15,6 +15,7 @@ p {
   margin-left: auto;
   font-family: Helvetica;
   color: white;
+  clear: right;
 }
 .floatright {
   float: right;
